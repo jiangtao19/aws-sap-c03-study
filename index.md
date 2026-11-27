@@ -31,6 +31,12 @@ SAA取得済み・実務経験少なめの前提で、SAP-C03（2026-11-17〜）
 | シート | 内容 |
 | --- | --- |
 | [week3-kickoff.md](week3-kickoff.md) | 第3週キックオフ — Lambda、ECS／EKS、Step Functions、Aurora／RDS、DynamoDB／S3、週末はサーバーレスパイプラインのハンズオン |
+| [week3-day1-lambda-serverless.md](week3-day1-lambda-serverless.md) | Day 1（11/23）：Lambda／サーバーレスの基礎 — 15分制限、同期・非同期・ストリームのリトライと冪等性 |
+| [week3-day2-ecs-eks-fargate.md](week3-day2-ecs-eks-fargate.md) | Day 2（11/24）：ECS／EKSとFargate — タスク実行ロールとタスクロールの違い、起動タイプの使い分け |
+| [week3-day3-stepfunctions-eventbridge-sqs-sns.md](week3-day3-stepfunctions-eventbridge-sqs-sns.md) | Day 3（11/25）：Step Functions／EventBridge／SQS／SNS — StandardとExpress、Retry／Catch、使い分け表 |
+| [week3-day4-aurora-rds.md](week3-day4-aurora-rds.md) | Day 4（11/26）：Aurora／RDS — Multi-AZとリードレプリカ、Serverless v2、Global Database |
+| [week3-day5-dynamodb-s3.md](week3-day5-dynamodb-s3.md) | Day 5（11/27）：DynamoDBとS3の設計 — パーティションキー設計、ストレージクラスとライフサイクル、週末ハンズオンの準備メモ |
+| [week3-weekend-hands-on-runbook.md](week3-weekend-hands-on-runbook.md) | 週末ハンズオン・ランブック（11/28 S3→Lambda→DynamoDBの部品確認・11/29 Step Functionsでつないで失敗も確認）— 検証手順と片付けチェックリスト |
 
 ## 進め方
 
